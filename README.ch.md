@@ -52,7 +52,7 @@
 
 <p align="center">
   <sub>
-    © 2025 Night Vyper LLC. 保留所有权利。
+    © 2025 Night Vyper LLC. 保留所有权利。<br>
     此存储库及所有相关材料均为专有且机密。
     任何企图反编译、复制、修改、占用或重新分发
     Night Vyper 的技术、品牌、设计、模型、训练方法
