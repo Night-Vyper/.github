@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">English</a> |
-  <a href="README.es.md">Español</a> |
+  <a href="#">Español</a> |
   <a href="#">Français</a> |
   <a href="#">Deutsch</a> |
   <a href="#">한국어</a> |
