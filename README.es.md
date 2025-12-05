@@ -31,20 +31,21 @@ Night Vyper se compromete con la innovación ética y el desarrollo colaborativo
 - 🔬 Explora posibles líneas de investigación  
 - 🌎 Colabora con nosotros en proyectos de campo  
 
-Para consultas empresariales, colaboraciones o alianzas de investigación, por favor contáctanos.
+Para consultas empresariales, colaboraciones o alianzas de investigación, por favor [contáctanos](mailto:collabrequest@nightvyper.com).
 
 ---
 
 ## 🌟 Únete a la Misión
 
-En Night Vyper trabajamos para que la inteligencia ambiental avanzada sea accesible, confiable y significativa, empoderando a las comunidades para proteger lo que más importa.
-
 <p align="center">
   <a href="https://github.com/night-vyper">
-    <img src="https://img.shields.io/badge/GitHub-Night%20Vyper-blue?logo=github&style=for-the-badge">
+    <img src="https://img.shields.io/badge/GitHub-Night%20Vyper-green?logo=github&style=for-the-badge">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Próximamente-blue?logo=linkedin&style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Próximamente-red?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Sitio%20Web-Próximamente-yellow?style=for-the-badge&logo=internet-explorer">
   </a>
 </p>
 
@@ -53,10 +54,11 @@ En Night Vyper trabajamos para que la inteligencia ambiental avanzada sea accesi
 <p align="center">
   <sub>
     © 2025 Night Vyper LLC. Todos los derechos reservados.<br>
-    Este repositorio y todo su contenido son propiedad exclusiva y confidencial.<br>
-    Cualquier intento de descompilar, reproducir, modificar, apropiarse o redistribuir<br>
-    tecnologías, diseños, modelos, métodos de entrenamiento o investigaciones<br>
-    de Night Vyper está estrictamente prohibido. Las violaciones se perseguirán<br>
-    según el máximo alcance permitido por la ley aplicable.
+    Este repositorio y todos los materiales relacionados son propiedad exclusiva y confidencial.
+    Cualquier intento de descompilar, reproducir, modificar, apropiarse o redistribuir
+    tecnologías, identidad visual, diseños, modelos, métodos de entrenamiento
+    o investigaciones de Night Vyper está estrictamente prohibido. Las violaciones
+    serán perseguidas en la máxima medida que permita la ley aplicable.
   </sub>
 </p>
+
