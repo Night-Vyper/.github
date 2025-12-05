@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="BANNER_IMAGE_URL_HERE" width="100%" alt="Night Vyper Hero Banner">
+  <img width="1920" height="800" alt="night-vyper-gh-cover" src="https://github.com/user-attachments/assets/81883503-b6c4-456d-ba36-575aee22d645" />
 </p>
 
 <p align="center">
-  <a href="#">English</a> |
+  <a href="README.md">English</a> |
   <a href="#">Español</a> |
   <a href="#">Français</a> |
   <a href="#">Deutsch</a> |
