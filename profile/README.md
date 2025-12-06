@@ -1,4 +1,5 @@
-<img width="1920" height="800" alt="night-vyper-gh-cover" src="https://github.com/user-attachments/assets/81883503-b6c4-456d-ba36-575aee22d645" />
+
+<img width="1920" height="600" alt="night-vyper-gh-cover" src="https://github.com/user-attachments/assets/bb321f13-6edd-4098-a841-86b57c4da25f" />
 
 <p align="center">
   <a href="#">English</a> |
