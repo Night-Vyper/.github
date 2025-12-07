@@ -20,20 +20,20 @@ Our technology combines modern computer vision, field-ready hardware, and intell
 
 ---
 
-## 🤝 Work With Us
+## Work With Us
 
 We are committed to ethical innovation and collaborative progress in wildlife monitoring and environmental protection.
 
-- 💡 Share ideas  
-- 🐛 Report issues  
-- 🔬 Explore research directions  
-- 🌎 Partner with us for field applications  
+- Share ideas  
+- Report issues  
+- Explore research directions  
+- Partner with us for field applications  
 
 For enterprise inquiries, collaborations, or research partnerships, please [contact us](mailto:collabrequest@nightvyper.com).
 
 ---
 
-## 🌟 Join the Mission
+## Join the Mission
 
 <p align="center">
   <a href="https://github.com/night-vyper">
